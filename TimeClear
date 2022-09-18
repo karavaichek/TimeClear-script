@@ -1,9 +1,6 @@
-/* Small Google Sheets time-triggered script cleaning data from two specified areas
+*/
 Further information about used methods you may find here
-
 https://developers.google.com/apps-script/reference/script/clock-trigger-builder?hl=en
-
-You're always welcome to upgrade this code and I will be pleased if you do
 */
 
 function setUppTrigger() {       								//function to create new time-based trigger
