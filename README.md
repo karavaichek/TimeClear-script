@@ -1,4 +1,5 @@
 Small Google Sheets time-triggered script cleaning data from two specified areas
+
 Further information about used methods you may find here
 
 https://developers.google.com/apps-script/reference/script/clock-trigger-builder?hl=en
