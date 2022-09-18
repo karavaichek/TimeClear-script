@@ -8,4 +8,26 @@ If you are about to create your first script and don't know how to use Apps Scri
 
 Google Apps Script Tutorial for Beginners - https://www.youtube.com/watch?v=Nd3DV_heK2Q
 
+Also you may clean as much areas as you want just adding new variables and new functions bellow (Ctrl+C and Ctrl+V is your best friend)
+
 You're always welcome to upgrade this code and I will be pleased if you do
+
+And a goose for fun:)
+
+░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░
+░░░░░▄▀▀▀▄░░░░░░░░░
+▄███▀░◐░░░▌░░░░░░░░░
+░░░░▌░░░░░▐░░░░░░░░░
+░░░░▐░░░░░▐░░░░░░░░░
+░░░░▌░░░░░▐▄▄░░░░░░░
+░░░░▌░░░░▄▀▒▒▀▀▀▀▄
+░░░▐░░░░▐▒▒▒▒▒▒▒▒▀▀▄
+░░░▐░░░░▐▄▒▒▒▒▒▒▒▒▒▒▀▄
+░░░░▀▄░░░░▀▄▒▒▒▒▒▒▒▒▒▒▀▄
+░░░░░░▀▄▄▄▄▄█▄▄▄▄▄▄▄▄▄▄▄▀▄
+░░░░░░░░░░░▌▌░▌▌░░░░░
+░░░░░░░░░░░▌▌░▌▌░░░░░
+░░░░░░░░░▄▄▌▌▄▌▌░░░░░
+
+
