@@ -14,17 +14,5 @@ function setUppTrigger() {       								//function to create new time-based tri
 }
 
 function TimeClear() {
-  var sheet = SpreadsheetApp.getActiveSheet();					//var sheet will take the value of active list of your sheet
-  var rangesAddressesList_1 = ["B3:C16"];						//first range to clear
-  var rangesAddressesList_2 = ["E3:F16"];						//second range to clear
-  resetByRangesList_1(sheet, rangesAddressesList_1);			//call the function resetByRangesList_1 with variables 'sheet' and 'rangesAddressesList_1'
-  resetByRangesList_2(sheet, rangesAddressesList_2);			//call the function resetByRangesList_2 with variables 'sheet' and 'rangesAddressesList_2'
-}
-
-function resetByRangesList_1(sheet, rangesAddressesList_1){
-  sheet.getRangeList(rangesAddressesList_1).clearContent();
-}
-
-function resetByRangesList_2(sheet, rangesAddressesList_2){
-  sheet.getRangeList(rangesAddressesList_2).clearContent();
+  SpreadsheetApp.getActiveSheet().getRangeList(['B3:C16','E3:F16']).clearContent();
 }
