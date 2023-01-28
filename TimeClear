@@ -9,7 +9,7 @@ function setUppTrigger() {       								//function to create new time-based tri
   .timeBased()
   .atHour(23)     												//execute func TimeClear at 11 p.m (note time here shoulв be written at 24-hour basis)
   .everyDays(1)     											//execute func TimeClear every n days
-  .inTimezone('Europe/Moscow')      							//unnecesary method to specify the timezone
+  .inTimezone ("Europe/Moscow")      							//unnecesary method to specify the timezone
   .create(); 
 }
 
